@@ -1,0 +1,3 @@
+# ALL mod, de csak az egyikben van torpedo (legalabb egy sikeres)
+GT4500,1,0,0,0
+TORPEDO,ALL

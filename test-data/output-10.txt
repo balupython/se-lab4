@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO (legalabb a masodlagosbol lott egyet)
