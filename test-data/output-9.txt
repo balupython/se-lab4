@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO 1 (kilovi az egyetlen torpedot)
+FAIL     # <- TORPEDO 2 (mindketto ures, ez fedi le a hianyozo agat)
