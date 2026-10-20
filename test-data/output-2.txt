@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO 1 (elsodleges)
+SUCCESS  # <- TORPEDO 2 (masodlagos)

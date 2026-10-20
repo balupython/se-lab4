@@ -1,0 +1,4 @@
+# Masodlagos ures, ezert ketszer lo az elsodlegesbol
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
